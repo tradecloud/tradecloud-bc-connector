@@ -1,0 +1,9 @@
+# C# development
+bin
+obj
+appsettings.Development.json
+
+# AL development
+*.app
+cache*
+table*
